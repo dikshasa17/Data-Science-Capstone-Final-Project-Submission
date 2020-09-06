@@ -1,0 +1,12 @@
+name: DataToPredict
+title: DataToPredict
+username:
+account: dikshasa17
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2757844
+bundleId: 3596308
+url: https://dikshasa17.shinyapps.io/DataToPredict/
+when: 1599313497.46237
+asMultiple: FALSE
+asStatic: FALSE
